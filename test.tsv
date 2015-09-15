@@ -1,0 +1,34 @@
+fkprocessnode	paramname	paramvalue	pkid	primarydata	resettoggle	tkparam	tkreset	tkservice	versionstamp
+00000000-1111-0000-0000-000000000000	CCMUserOptionsPortalDefaultServer		3d33f600-1567-40ad-bf5b-e3111f23481d	t	f	3	2	11	0000000000-c7a6c673-7479-46b0-839e-014d3d093963
+fkprocessnode	paramname	paramvalue	pkid	primarydata	resettoggle	tkparam	tkreset	tkservice	versionstamp
+00000000-1111-0000-0000-000000000000	OrganizationDomain		42ef2d72-01f4-41c7-997b-3ae40770e851	t	f	3	2	11	0000000000-c7a6c673-7479-46b0-839e-014d3d093963
+fkprocessnode	paramname	paramvalue	pkid	primarydata	resettoggle	tkparam	tkreset	tkservice	versionstamp
+00000000-1111-0000-0000-000000000000	ClusterName		b490256e-9c9a-4fa3-987f-8bfd25ab74de	t	f	3	2	11	0000000000-c7a6c673-7479-46b0-839e-014d3d093963
+fkprocessnode	paramname	paramvalue	pkid	primarydata	resettoggle	tkparam	tkreset	tkservice	versionstamp
+00000000-1111-0000-0000-000000000000	ClusterID	StandAloneCluster	7dbf8691-a95a-4d11-b2ac-9af1520517fe	t	f	3	2	11	0000000000-c7a6c673-7479-46b0-839e-014d3d093963
+fkprocessnode	paramname	paramvalue	pkid	primarydata	resettoggle	tkparam	tkreset	tkservice	versionstamp
+00000000-1111-0000-0000-000000000000	BLFForCallLists	0	b6499075-3555-4b9d-896b-c971da15df74	t	f	3	2	11	0000000000-c7a6c673-7479-46b0-839e-014d3d093963
+fkprocessnode	paramname	paramvalue	pkid	primarydata	resettoggle	tkparam	tkreset	tkservice	versionstamp
+00000000-1111-0000-0000-000000000000	AdvertiseG722Codec	1	e0c30af2-321b-46d8-adfe-2d8d39159cd7	t	f	3	2	11	0000000000-c7a6c673-7479-46b0-839e-014d3d093963
+fkprocessnode	paramname	paramvalue	pkid	primarydata	resettoggle	tkparam	tkreset	tkservice	versionstamp
+00000000-1111-0000-0000-000000000000	URILookupPolicy	0	10358263-db32-4b4b-8bd8-f80e2e7fffef	t	f	3	2	11	0000000000-c7a6c673-7479-46b0-839e-014d3d093963
+fkprocessnode	paramname	paramvalue	pkid	primarydata	resettoggle	tkparam	tkreset	tkservice	versionstamp
+00000000-1111-0000-0000-000000000000	CCMAdminEnableDependencyRecords	F	9479a9b9-bc8b-4d1d-9336-476960f52fc1	t	f	0	2	11	0000000000-c7a6c673-7479-46b0-839e-014d3d093963
+fkprocessnode	paramname	paramvalue	pkid	primarydata	resettoggle	tkparam	tkreset	tkservice	versionstamp
+00000000-1111-0000-0000-000000000000	AutoSelectDNOnAnyPartition	0	66653c65-167c-4fcc-82c0-84c90c036dbc	t	f	3	2	11	0000000000-c7a6c673-7479-46b0-839e-014d3d093963
+fkprocessnode	paramname	paramvalue	pkid	primarydata	resettoggle	tkparam	tkreset	tkservice	versionstamp
+00000000-1111-0000-0000-000000000000	CCMUserShowIPPhoneServicesSettings	T	b177c01e-8579-4773-95bb-b9e589b62ba4	t	f	0	2	11	0000000000-c7a6c673-7479-46b0-839e-014d3d093963
+fkprocessnode	paramname	paramvalue	pkid	primarydata	resettoggle	tkparam	tkreset	tkservice	versionstamp
+00000000-1111-0000-0000-000000000000	CCMUserShowRingSettings	F	fd54dbe7-cf1b-4fa6-a44c-55fbd4896d8e	t	f	0	2	11	0000000000-c7a6c673-7479-46b0-839e-014d3d093963
+fkprocessnode	paramname	paramvalue	pkid	primarydata	resettoggle	tkparam	tkreset	tkservice	versionstamp
+00000000-1111-0000-0000-000000000000	CCMUserShowPhoneLocale	T	b2274dcc-30f9-4aec-b3a7-0e7d12bea2b7	t	f	0	2	11	0000000000-c7a6c673-7479-46b0-839e-014d3d093963
+fkprocessnode	paramname	paramvalue	pkid	primarydata	resettoggle	tkparam	tkreset	tkservice	versionstamp
+00000000-1111-0000-0000-000000000000	CCMUserShowVoicemailIVROption	T	7eaf318b-c9f8-4b89-abb8-642f69288ed7	t	f	0	2	11	0000000000-c7a6c673-7479-46b0-839e-014d3d093963
+fkprocessnode	paramname	paramvalue	pkid	primarydata	resettoggle	tkparam	tkreset	tkservice	versionstamp
+00000000-1111-0000-0000-000000000000	CCMUserShowConferencingScheduler	T	7cbaa7b5-2079-4145-88ca-6c0995c789eb	t	f	0	2	11	0000000000-c7a6c673-7479-46b0-839e-014d3d093963
+fkprocessnode	paramname	paramvalue	pkid	primarydata	resettoggle	tkparam	tkreset	tkservice	versionstamp
+00000000-1111-0000-0000-000000000000	CCMUserShowVideoConferencingScheduler	1	20057943-fa1c-4603-afef-11c802ce74ec	t	f	3	2	11	0000000000-c7a6c673-7479-46b0-839e-014d3d093963
+fkprocessnode	paramname	paramvalue	pkid	primarydata	resettoggle	tkparam	tkreset	tkservice	versionstamp
+00000000-1111-0000-0000-000000000000	CCMUserShowDownload	T	47d88a06-e2b0-48f1-b247-b7a384c2f820	t	f	0	2	11	0000000000-c7a6c673-7479-46b0-839e-014d3d093963
+fkprocessnode	paramname	paramvalue	pkid	primarydata	resettoggle	tkparam	tkreset	tkservice	versionstamp
+00000000-1111-0000-0000-000000000000	CCMUserShowCallForward	1	9d4491a2-2f60-48ac-a44a-ee8c4ed2217e	t	f	3	2	11	0000000000-c7a6c673-7479-46b0-839e-014d3d093963
